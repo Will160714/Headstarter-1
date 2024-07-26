@@ -1,4 +1,4 @@
-# HeadStarter Personal Project
+# server-starter-code
 
 Credits:
 
