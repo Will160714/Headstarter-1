@@ -1,4 +1,4 @@
-# HeadStarter Personal Project
+# HeadStarter Personal Website
 
 Credits:
 
